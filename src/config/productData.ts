@@ -24,7 +24,6 @@ export const PRODUCT_DATA = {
   "storeLogo": "https://knbpurdmiwupinkbsxnn.supabase.co/storage/v1/object/public/uploads/1776183139305-1714299153tiktok-shop-logo-transparent.png",
   "storeName": "Feliz Textil Importação",
   "subdomain": "bodysplash",
-  "github_url": "https://github.com/Wendellv66/scaleshop-store-bodysplash",
   "description": {
     "short": "",
     "specs": [],
@@ -281,7 +280,6 @@ export const PRODUCT_DATA = {
   "carouselImages": [],
   "recommendations": [],
   "paradiseSecretKey": "[REMOVED_FOR_SECURITY]",
-  "github_repo_full_name": "Wendellv66/scaleshop-store-bodysplash",
   "isPlaceholder": false
 };
 export default PRODUCT_DATA;
